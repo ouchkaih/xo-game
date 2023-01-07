@@ -1,0 +1,9 @@
+.play_inputs {
+    height: 120px !important;
+    font-size: 50px;
+    font-weight: 800;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    -moz-user-select: none !important;
+}
